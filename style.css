@@ -1,0 +1,25 @@
+/***************************Normal css*************************************/
+body{background-color: #EAF6F6;}
+hr{border-width:5px; border-style: dotted none none; width: 5%;}
+h1{color: #66BFBF;}
+h2{color: #66BFBF;}
+h3{color: #66BFBF;}
+
+/************Some godlike piro CLASS selective css*************************/
+/****************************************************************************/
+
+                /*******Fonts of heading**********/
+.GOD{font-family:cursive; font-size:50px;font-variant: small-caps;}
+.Hobbies{font-family:cursive; font-size:30px;font-variant: small-caps;}
+.Anime{font-family:cursive; font-size:25px;font-variant: small-caps;}
+.Rating{font-family:cursive; font-size:25px;font-variant: small-caps;}
+/****************************************************************************/
+
+                /***********Colors of normal words***********/
+                /***********YET TO PICK COLORS***********/
+
+  /****************************************************************************/
+
+  /***************************Font of normal words*****************************/
+
+  .Me{font-family:cursive; font-size:14px;font-variant: small-caps;}        
